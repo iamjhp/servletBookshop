@@ -11,3 +11,4 @@ A simple ebook store for practicing Servlet.
  * Java
  * Servlet
  * Tomcat
+ * MySQL
